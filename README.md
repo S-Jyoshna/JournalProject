@@ -8,11 +8,11 @@
 
 | SCREEN                                          | DESCRIPTION                                                              |
 |-------------------------------------------------|--------------------------------------------------------------------------|
-| ![Login](screenshots/login.jpeg).               | User Login Screen : If you dont have an account You can register         |
-| ![Register](screenshots/register.jpeg).         | User Register Screen : You can login after registration                  |
-| ![Homepage](screenshots/homepage.jpeg).         | Homepage screen along with menu bar contents also showing total entries  |
-| ![AddEntry](screenshots/addentry.jpeg).         | Add entry Screen : You can write content by giving title                 |
-| ![ViewEntry](screenshots/viewentry.jpeg).       | Viewing Entry and You Can Navigate through pages using Next and Previous |
+| ![Login](screenshots/login.jpeg)                | User Login Screen : If you dont have an account You can register         |
+| ![Register](screenshots/register.jpeg)          | User Register Screen : You can login after registration                  |
+| ![Homepage](screenshots/homepage.jpeg)          | Homepage screen along with menu bar contents also showing total entries  |
+| ![AddEntry](screenshots/addentry.jpeg)          | Add entry Screen : You can write content by giving title                 |
+| ![ViewEntry](screenshots/viewentry.jpeg)        | Viewing Entry and You Can Navigate through pages using Next and Previous |
 | ![SearchDate](screenshots/searchdate.jpeg)      | Searching entries through date                                           |
 | ![SearchTitle](screenshots/SearchTitle.jpeg)    | Searching entries through title                                          |
 | ![SearchPageno](screenshots/searchpageno.jpeg)  | Searching entries through pagenumber                                     |
@@ -24,19 +24,19 @@
 
 ---
 ## 🔐Key Features:
-a.User Authentication : Register, login, logout, and update profile with a profile picture.
-b.Add Entries : Users can write new journal entries with titles, content.
-c.View & Navigate : Entries can be viewed with page numbers, and previous/next navigation.
-d.Search : Users can search entries by title, content, date, or page number.
-e.Reminders : Users can set reminders by clicking dates on a calendar.
-f.Custom Fonts : Users can change the font of their journal using a dropdown.
-g.Real-Time Entry Count : The homepage displays the total number of entries made by the user, and this updates automatically when a new entry is added.
+a. User Authentication : Register, login, logout, and update profile with a profile picture.
+b. Add Entries : Users can write new journal entries with titles, content.
+c. View & Navigate : Entries can be viewed with page numbers, and previous/next navigation.
+d. Search : Users can search entries by title, content, date, or page number.
+e. Reminders : Users can set reminders by clicking dates on a calendar.
+f. Custom Fonts : Users can change the font of their journal using a dropdown.
+g. Real-Time Entry Count : The homepage displays the total number of entries made by the user, and this updates automatically when a new entry is added.
 ---
 ## 🛠️Tech Stack: 
-•Backend : django framework
-•Frontend : HTML, CSS, JavaScript
-•Database : SQLite (Default)
-•LocalStorage : to remember font preferences
+• Backend : django framework
+• Frontend : HTML, CSS, JavaScript
+• Database : SQLite (Default)
+• LocalStorage : to remember font preferences
 ---
 ## 📌Installation & Setup:
 1. Clone the repository:
