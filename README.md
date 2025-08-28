@@ -6,9 +6,9 @@
 ---
 ## 🖼️Screenshots:
 
-| SCREEN                                          | DESCRIPTION                                                              |
-|-------------------------------------------------|--------------------------------------------------------------------------|
-| ![Login](screenshots/login.jpeg)                | User Login Screen : If you dont have an account You can register         |
+| SCREEN                                          | DESCRIPTION                                                                            |
+|-------------------------------------------------|----------------------------------------------------------------------------------------|
+| ![Login](diary_project/screenshots/login.jpeg)                | User Login Screen : If you dont have an account You can register         |
 | ![Register](screenshots/register.jpeg)          | User Register Screen : You can login after registration                  |
 | ![Homepage](screenshots/homepage.jpeg)          | Homepage screen along with menu bar contents also showing total entries  |
 | ![AddEntry](screenshots/addentry.jpeg)          | Add entry Screen : You can write content by giving title                 |
