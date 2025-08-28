@@ -53,14 +53,15 @@
 
 4. Install dependencies:
    pip install django
+   python -m pip install Pillow
 
-5. Apply migrations:
+6. Apply migrations:
    python manage.py migrate
 
-6. Run the development server:
+7. Run the development server:
    python manage.py runserver
 
-7. Open in browser:
+8. Open in browser:
    http://127.0.0.1:8000/
 ---
 ## 📜Usage:
