@@ -6,21 +6,21 @@
 ---
 ## 🖼️Screenshots:
 
-| SCREEN                                          | DESCRIPTION                                                                            |
-|-------------------------------------------------|----------------------------------------------------------------------------------------|
+| SCREEN                                                        | DESCRIPTION                                                              |
+|---------------------------------------------------------------|--------------------------------------------------------------------------|
 | ![Login](diary_project/screenshots/login.jpeg)                | User Login Screen : If you dont have an account You can register         |
-| ![Register](screenshots/register.jpeg)          | User Register Screen : You can login after registration                  |
-| ![Homepage](screenshots/homepage.jpeg)          | Homepage screen along with menu bar contents also showing total entries  |
-| ![AddEntry](screenshots/addentry.jpeg)          | Add entry Screen : You can write content by giving title                 |
-| ![ViewEntry](screenshots/viewentry.jpeg)        | Viewing Entry and You Can Navigate through pages using Next and Previous |
-| ![SearchDate](screenshots/searchdate.jpeg)      | Searching entries through date                                           |
-| ![SearchTitle](screenshots/SearchTitle.jpeg)    | Searching entries through title                                          |
-| ![SearchPageno](screenshots/searchpageno.jpeg)  | Searching entries through pagenumber                                     |
-| ![DisplayProf](screenshots/displayprofdet.jpeg) | Display Profile details when profile clicked under menu in homepage      |
-| ![EditProfile](screenshots/editprof.jpeg)       | Profile Edit Screen                                                      |
-| ![addrem](screenshots/addrem.jpeg)              | On Clicking Calender after selecting date we cann add reminders          |
-| ![rem](screenshots/rem.jpeg)                    | Reminders section : displays reminders you have added                    |
-| ![font](screenshots/font.jpeg)                  | You can change font using change font section                            |
+| ![Register](diary_project/screenshots/register.jpeg)          | User Register Screen : You can login after registration                  |
+| ![Homepage](diary_project/screenshots/homepage.jpeg)          | Homepage screen along with menu bar contents also showing total entries  |
+| ![AddEntry](diary_project/screenshots/addentry.jpeg)          | Add entry Screen : You can write content by giving title                 |
+| ![ViewEntry](diary_project/screenshots/viewentry.jpeg)        | Viewing Entry and You Can Navigate through pages using Next and Previous |
+| ![SearchDate](diary_project/screenshots/searchdate.jpeg)      | Searching entries through date                                           |
+| ![SearchTitle](diary_project/screenshots/SearchTitle.jpeg)    | Searching entries through title                                          |
+| ![SearchPageno](diary_project/screenshots/searchpageno.jpeg)  | Searching entries through pagenumber                                     |
+| ![DisplayProf](diary_project/screenshots/displayprofdet.jpeg) | Display Profile details when profile clicked under menu in homepage      |
+| ![EditProfile](diary_project/screenshots/editprof.jpeg)       | Profile Edit Screen                                                      |
+| ![addrem](diary_project/screenshots/addrem.jpeg)              | On Clicking Calender after selecting date we cann add reminders          |
+| ![rem](diary_project/screenshots/rem.jpeg)                    | Reminders section : displays reminders you have added                    |
+| ![font](diary_project/screenshots/font.jpeg)                  | You can change font using change font section                            |
 
 ---
 ## 🔐Key Features:
